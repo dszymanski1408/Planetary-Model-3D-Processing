@@ -1,0 +1,9 @@
+Adding Images to the Processing Environment:  
+To add the images to the Processing Environment you need to go to  Sketch in the toolbar select Add File... 
+  and manually add all the image files in to the Processing library.
+
+TLDR:
+>Select Sketch
+  >Select Add File..
+    >Add .jpg files from TextureMaps
+    
