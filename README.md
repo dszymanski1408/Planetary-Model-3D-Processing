@@ -1,5 +1,7 @@
-# Planetary-Model-3D-Java-Processing (Missing images)
-## 3D rendering of our solar system, missing asteroid belt and gas giants (images will be added as a separate folder at a later date)
+# Planetary-Model-3D-Java-Processing
+## 3D rendering of our solar system, missing asteroid belt and gas giants
+
+>Images are in a folder named TextureMaps.
 
 >Not done to scale _Neither size nor speed are true to life since doing so would not allow the rendering to be showcased completely_
 
